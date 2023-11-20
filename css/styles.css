@@ -21,7 +21,7 @@
   }
   
   .container {
-    background-color: linear-gradient(180deg, rgb(238, 114, 76) 0%, #8dd0f5 100%);
+    background-color: #ed5454;
     box-shadow: rgba(32, 10, 10, 0.24) 0px 3px 8px;
     padding: 2rem;
     color: #fdfdfd;
